@@ -81,3 +81,4 @@ python exercicio4_video.py
 ## Autor
 
 Luisa Caetano - Atividade de Visão Computacional
+
